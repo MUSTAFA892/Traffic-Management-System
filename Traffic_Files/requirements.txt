@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+numpy
+
+openpyxl
+
+torch
+torchvision
+torchaudio
+pycocotools
+jupyter
+notebook
